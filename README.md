@@ -12,5 +12,6 @@
 
 或者你可以直接新建一个浏览器书签，地址填下面这个：
 
-```javascript:void(function(){var d = document,a = 'setAttribute',s = d.createElement('script');s[a]('tyle','text/javascript');s[a]('src','http://lab.morfans.cn/carnival_js/carnival.js');d.head.appendChild(s);})();
+```
+javascript:void(function(){var d = document,a = 'setAttribute',s = d.createElement('script');s[a]('tyle','text/javascript');s[a]('src','http://lab.morfans.cn/carnival_js/carnival.js');d.head.appendChild(s);})();
 ```
