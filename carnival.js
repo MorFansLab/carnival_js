@@ -146,6 +146,5 @@ function le() {
     });
     
 }
-var bgmSrc = "http://other.web.rc01.sycdn.kuwo.cn/resource/n3/14/1/2095438319.mp3";
+var bgmSrc = "http://music.163.com/song/media/outer/url?id=26552076.mp3";
 var cssHref = "./high.css";     //设置页面动效css地址
-
